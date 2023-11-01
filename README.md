@@ -5,7 +5,7 @@ Elastic search functionality demo
 ### How to start the application:
 
 1. Run ```docker-compose.yaml``` file to start ```elasticsearch``` locally (Make sure docker installed in system)
-2. Create an index in ```elasticsearch``` with name ```products```
+2. Create an index in ```elasticsearch``` with name ```products``` (```Elasticvue``` is GUI for elasticsearch)
 3. Run the spring-boot application locally and play with bellow curls
 
 ```code 
